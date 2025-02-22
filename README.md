@@ -4,6 +4,12 @@ The API itself is a single Java class `SAS_ROSET`
 
 For a more visually appealing and easier-to-navigate experience, visit the [SAS-ROSET official website](https://sas-roset.github.io).
 
+**License: [MIT License](LICENSE)**
+<br/>
+
+## Documentaion
+[ROSET Java API Documentation](https://sas-roset.github.io/docs/java_api/java_api.html)
+
 <br/>
 
 ## Instruction to use the ROSET Java API:
@@ -16,8 +22,3 @@ For a more visually appealing and easier-to-navigate experience, visit the [SAS-
 
 ## Usage sample
 A usage sample of the API is available in the `Main.java` file. [(Go to Main.java)](https://github.com/SAS-ROSET/ROSET_Java_API/blob/main/src/com/sas/roset/api/Main.java)
-
-<br/>
-
-## Documentaion
-[ROSET Java API Documentation](https://sas-roset.github.io/docs/java_api/java_api.html)
