@@ -2,6 +2,8 @@
 Official Java implementation of the SAS-RCS and SAS-RBS encryption algorithms, offering an easy way to integrate them into Java projects. 
 The API itself is a single Java class `SAS_ROSET`
 
+For a more visually appealing and easier-to-navigate experience, visit the [SAS-ROSET official website](https://sas-roset.github.io).
+
 <br/>
 
 ## Instruction to use the ROSET Java API:
